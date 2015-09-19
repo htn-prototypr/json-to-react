@@ -7,3 +7,7 @@ var {
     Text,
     View,
 } = React;
+
+var SampleApp = React.createClass({
+    render: function () {
+        return (
