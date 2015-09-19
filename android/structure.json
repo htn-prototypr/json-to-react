@@ -1,0 +1,22 @@
+{ 
+    "root" : {
+        "children" : [
+            {
+                "type" : "container",
+                "id" : "temp_one",
+                "margin-top" : 10,
+                "margin-left" : 10,
+                "width" : 10,
+                "height" : 10
+            },
+            {
+                "type" : "container",
+                "id" : "temp_two",
+                "margin-top" : 30,
+                "margin-left" : 10,
+                "width" : 10,
+                "height" : 10
+            }
+        ]
+    }
+}
