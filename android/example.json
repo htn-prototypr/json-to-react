@@ -4,8 +4,8 @@
             {
                 "type" : "container",
                 "style" : {
-                    "margin-top" : 10,
-                    "margin-left" : 10,
+                    "marginTop" : 10,
+                    "marginLeft" : 10,
                     "width" : 10,
                     "height" : 10
                 },
@@ -14,8 +14,8 @@
             {
                 "type" : "container",
                 "style" : {
-                    "margin-top" : 30,
-                    "margin-left" : 10,
+                    "marginTop" : 30,
+                    "marginLeft" : 10,
                     "width" : 10,
                     "height" : 10
                 },
